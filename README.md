@@ -1,6 +1,6 @@
 # learning-ML
 
-# Machine Learning Learning Journey 🚀
+# Machine Learning Learning Journey 🚀\
 
 This repository contains my notes, practice notebooks, and datasets while learning **Machine Learning from scratch**.
 
