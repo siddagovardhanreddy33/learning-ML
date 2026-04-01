@@ -1,0 +1,10 @@
+ml_env/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.h5
+*.pkl
+*.joblibml_env/
+venv/
+__pycache__/
+.ipynb_checkpoints/

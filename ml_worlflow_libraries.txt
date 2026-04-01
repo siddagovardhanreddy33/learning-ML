@@ -1,0 +1,75 @@
+# ===============================
+# 1️⃣ Data Handling
+# ===============================
+numpy              # numerical computing (arrays, linear algebra)
+pandas             # data manipulation using DataFrames
+scipy              # scientific computing and statistics
+
+
+# ===============================
+# 2️⃣ Visualization
+# ===============================
+matplotlib         # basic plots (line, bar, scatter, histogram)
+seaborn            # statistical visualizations (heatmap, pairplot)
+plotly             # interactive visualizations
+missingno          # missing value visualization
+
+
+# ===============================
+# 3️⃣ EDA (Exploratory Data Analysis)
+# ===============================
+ydata-profiling    # automated EDA report generation
+sweetviz           # visual EDA report + dataset comparison
+autoviz            # automatic visualization generation
+
+
+# ===============================
+# 4️⃣ Preprocessing / Feature Engineering
+# ===============================
+feature-engine     # feature transformation utilities
+category-encoders  # encoding categorical variables
+imbalanced-learn   # handling imbalanced datasets (SMOTE)
+
+
+# ===============================
+# 5️⃣ Modeling
+# ===============================
+scikit-learn       # machine learning algorithms
+xgboost            # gradient boosting algorithm
+lightgbm           # fast gradient boosting framework
+catboost           # boosting algorithm for categorical data
+
+
+# ===============================
+# 6️⃣ Evaluation / Model Analysis
+# ===============================
+yellowbrick        # visual model evaluation
+statsmodels        # statistical analysis and hypothesis testing
+
+
+# ===============================
+# 7️⃣ Deep Learning
+# ===============================
+tensorflow         # deep learning framework
+keras              # high-level neural network API
+torch              # PyTorch deep learning framework
+torchvision        # computer vision utilities for PyTorch
+torchaudio         # audio processing tools for PyTorch
+
+
+# ===============================
+# 8️⃣ Model Saving / Deployment
+# ===============================
+joblib             # save/load ML models efficiently
+pickle5            # serialize python objects
+mlflow             # experiment tracking and model versioning
+
+
+# ===============================
+# 9️⃣ Utilities / Environment
+# ===============================
+tqdm               # progress bar for loops
+ipywidgets         # interactive widgets in Jupyter
+jupyter            # Jupyter environment
+notebook           # notebook interface
+ipykernel          # kernel for running python in notebook

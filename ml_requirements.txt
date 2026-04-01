@@ -1,0 +1,81 @@
+# ===============================
+# CORE DATA HANDLING
+# ===============================
+
+numpy              # numerical computing (arrays, linear algebra, math operations)
+pandas             # data manipulation using DataFrame (cleaning, filtering, grouping)
+scipy              # scientific computing (optimization, statistics, signal processing)
+scikit-learn       # machine learning algorithms (regression, classification, clustering)
+
+# ===============================
+# DATA VISUALIZATION
+# ===============================
+
+matplotlib         # base plotting library (line, bar, scatter, histogram)
+seaborn            # statistical visualization built on matplotlib (heatmap, pairplot)
+plotly             # interactive visualizations (zoomable charts, dashboards)
+missingno          # visualization of missing data (null heatmaps, matrix plots)
+
+# ===============================
+# AUTOMATED EDA (EXPLORATORY DATA ANALYSIS)
+# ===============================
+
+ydata-profiling    # generates complete EDA report automatically (distributions, correlations)
+sweetviz           # visual EDA report with comparison capability (train vs test)
+autoviz            # automatically generates many plots quickly
+
+# ===============================
+# ADVANCED MACHINE LEARNING ALGORITHMS
+# ===============================
+
+xgboost            # gradient boosting algorithm (high performance for structured data)
+lightgbm           # fast gradient boosting framework (efficient for large datasets)
+catboost           # gradient boosting with good categorical feature handling
+
+# ===============================
+# STATISTICS
+# ===============================
+
+statsmodels        # statistical tests, regression analysis, hypothesis testing
+
+# ===============================
+# FEATURE ENGINEERING & DATA PREPROCESSING
+# ===============================
+
+category-encoders  # encoding categorical variables (target encoding, binary encoding)
+feature-engine     # feature engineering utilities (binning, transformation)
+imbalanced-learn   # handle imbalanced datasets (SMOTE, undersampling, oversampling)
+
+# ===============================
+# MODEL VISUALIZATION & INTERPRETATION
+# ===============================
+
+yellowbrick        # visual analysis of model performance (confusion matrix, feature importance)
+
+# ===============================
+# DEEP LEARNING
+# ===============================
+
+tensorflow         # deep learning framework by Google (neural networks)
+keras              # high-level API for building deep learning models (runs on tensorflow)
+torch              # PyTorch deep learning framework (popular in research)
+torchvision        # datasets and models for computer vision (image tasks)
+torchaudio         # audio processing tools for deep learning
+
+# ===============================
+# MODEL SAVING & EXPERIMENT TRACKING
+# ===============================
+
+joblib             # save/load ML models efficiently
+pickle5            # serialize python objects (store models, pipelines)
+mlflow             # track experiments, model versioning, deployment
+
+# ===============================
+# UTILITIES
+# ===============================
+
+tqdm               # progress bar for loops (shows training progress)
+ipywidgets         # interactive widgets for Jupyter notebooks (sliders, buttons)
+jupyter            # Jupyter environment for interactive coding
+notebook           # classic Jupyter notebook interface
+ipykernel          # kernel to run python inside Jupyter environment
